@@ -20,9 +20,6 @@ export default function Sidebar() {
           </button>
         </footer>
       </aside>
-
-
    ) 
     
-  
 }
